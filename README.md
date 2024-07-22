@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 👋 Hi, I’m @achekery.  
+- 👀 I’m interested in cloud, networking and device industries.
+- 📫 How to reach me: https://www.linkedin.com/in/achekery/
+
 <!--
 **achekery/achekery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
